@@ -39,10 +39,11 @@
  }
 - Sevice chỉ cung cấp các tỉ giá các nước dựa trên đồng EUR (những service nâng cao hơn phải trả phí để sử dụng)
 => Ứng dụng sử dụng công thức chuyển đổi các giá tiền giữa các nước khác dựa trên:
-	VD: 1 EURO = 27.496 VND
-	        1 EURO = 1,09 USD
-	=> 27.496 VND = 1,09 USD	
-		=> 1 VND = 1,09 / 27.496 hoặc 1 USD = 27.496 / 1,09
+	- VD: 
+		- 1 EURO = 27.496 VND
+	    - 1 EURO = 1,09 USD
+	    - 27.496 VND = 1,09 USD	
+		- 1 VND = 1,09 / 27.496 hoặc 1 USD = 27.496 / 1,09
 - Đường dẫn demo ứng dụng: https://drive.google.com/file/d/13HvNwmPtl9ih5cN4RnvH-B__TZ1PfN3v/view?usp=sharing
 		
  
