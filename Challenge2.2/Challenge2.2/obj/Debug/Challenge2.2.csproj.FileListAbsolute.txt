@@ -6,3 +6,11 @@ D:\CV\TymeX\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.csproj.SuggestedBin
 D:\CV\TymeX\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.csproj.CoreCompileInputs.cache
 D:\CV\TymeX\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.exe
 D:\CV\TymeX\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.pdb
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\bin\Debug\Challenge2.2.exe.config
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\bin\Debug\Challenge2.2.exe
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\bin\Debug\Challenge2.2.pdb
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.csproj.AssemblyReference.cache
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.csproj.SuggestedBindingRedirects.cache
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.csproj.CoreCompileInputs.cache
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.exe
+D:\CV\TymeX\NGUYEN-HOANG-TRIEU---TymeX-Internship-Program-2024---Mobile-Intern--iOS-Android----Online-Test\Challenge2.2\Challenge2.2\obj\Debug\Challenge2.2.pdb

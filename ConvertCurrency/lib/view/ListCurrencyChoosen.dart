@@ -56,9 +56,24 @@ class _ListCurrencyChoosenState extends State<ListCurrencyChoosen> {
                 child: Text('Error: ${snapshot.error}')); // Hiển thị lỗi nếu có
           }
           if (snapshot.data!['listCurrencyChoosen'].length == 0) {
-            return const Center(
-                child:
-                    Text('No data available')); // Hiển thị khi không có dữ liệu
+            return Container(
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(20),
+                color: frameCountryColor,
+              ),
+              padding: EdgeInsets.only(
+                  left: MediaQuery.sizeOf(context).width * 0.05,
+                  right: MediaQuery.sizeOf(context).width * 0.05,
+                  bottom: MediaQuery.sizeOf(context).width * 0.05),
+              child: Text(
+                'Choose more option',
+                style: TextStyle(
+                    fontSize: MediaQuery.sizeOf(context).width * 0.05,
+                    fontWeight: FontWeight.bold,
+                    color: wordColor),
+              ),
+            ); // Hiển thị khi không có dữ liệu
           }
           Map<String, double> listCurrencyChoosen =
               snapshot.data!['listCurrencyChoosen'];
@@ -103,7 +118,8 @@ class _ListCurrencyChoosenState extends State<ListCurrencyChoosen> {
 
                           return Container(
                             padding: EdgeInsets.only(
-                                bottom: MediaQuery.sizeOf(context).width * 0.045,
+                                bottom:
+                                    MediaQuery.sizeOf(context).width * 0.045,
                                 top: MediaQuery.sizeOf(context).width * 0.045),
                             decoration: BoxDecoration(
                               border: Border(
@@ -149,7 +165,7 @@ class _ListCurrencyChoosenState extends State<ListCurrencyChoosen> {
                                           MediaQuery.sizeOf(context).width *
                                               0.04,
                                       color: wordColor,
-                                  fontWeight: FontWeight.w500),
+                                      fontWeight: FontWeight.w500),
                                 ),
                               ],
                             ),

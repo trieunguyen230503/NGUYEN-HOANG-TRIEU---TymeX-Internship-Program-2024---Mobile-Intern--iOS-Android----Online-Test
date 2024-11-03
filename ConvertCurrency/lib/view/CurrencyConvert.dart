@@ -266,7 +266,7 @@ class _CurrencyConvertState extends State<CurrencyConvert> {
                                 : '1',
                             style: TextStyle(
                                 fontSize: fontsize -
-                                    inputAmountOfMoney.text.length * 0.4,
+                                    inputAmountOfMoney.text.length * 0.5,
                                 fontWeight: FontWeight.bold,
                                 color: wordColor)),
                       ),
@@ -284,7 +284,7 @@ class _CurrencyConvertState extends State<CurrencyConvert> {
                         child: Text(
                           rateFormat,
                           style: TextStyle(
-                              fontSize: fontsize - rateFormat.length * 0.25,
+                              fontSize: fontsize - rateFormat.length * 0.5,
                               fontWeight: FontWeight.bold,
                               color: wordColor),
                         ))
