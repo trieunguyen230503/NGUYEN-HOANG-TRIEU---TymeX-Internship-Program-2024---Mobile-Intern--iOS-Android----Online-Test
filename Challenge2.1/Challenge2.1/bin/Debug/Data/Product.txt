@@ -1,0 +1,4 @@
+﻿Laptop 999,99 5
+Smartphone 799,99 10
+Tablet 299,99 20
+Smartwatch 199,99 3
